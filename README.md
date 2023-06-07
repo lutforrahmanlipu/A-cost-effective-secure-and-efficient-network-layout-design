@@ -25,7 +25,7 @@ SHC plans the following:
 
 
 
-Requirements
+Requirements ...................................................................................................................................................................
 As a consultant, you are required to design a cost effective, secure, and efficient network layout that meets SHC requirements. In addition, propose the software, hardware and broadband solutions to the customer.
 Design
 The proposed design report should include the followings:
