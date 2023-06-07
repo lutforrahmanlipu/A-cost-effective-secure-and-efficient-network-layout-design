@@ -1,7 +1,8 @@
 # A-cost-effective-secure-and-efficient-network-layout-design
 Designed a highly cost-effective, secure, and efficient network design for an account and management company. 
 Introduction
-Songlarp Harbees Corporation (SHC), an old medium size accounting and management company with approximately 30 staff and 20 PCs, is planning to revamp its entire outdated computer and network system to the one that would propel them to new e-business era. They are going to offer services through Internet as well as intranet for their staff.1) All devices are connected in a single network though hubs and switches.
+Songlarp Harbees Corporation (SHC), an old medium size accounting and management company with approximately 30 staff and 20 PCs, is planning to revamp its entire outdated computer and network system to the one that would propel them to new e-business era. They are going to offer services through Internet as well as intranet for their staff.
+1) All devices are connected in a single network though hubs and switches.
 2) Connection to ISP is open to everybody via a normal router using a 10MBps broadband.
 3) Certain users have privilege to be connected to Internet via a direct cellular dongle.
 4) All users are using Windows 7 professional SP1 64bit.
@@ -19,8 +20,11 @@ SHC plans the following:
 9) All network solutions should be wireless except the connection to the ISP.
 10) Renovation will be done to change the layout, enlarge server room and to add Development Department.
 11) Adopting related Information security policies, standards, and procedures.
- Their current configuration is shown in the picture below
+ Their current configuration is shown in the picture
 [image](https://github.com/lutforrahmanlipu/A-cost-effective-secure-and-efficient-network-layout-design/assets/114387464/07bea6f7-1303-4305-a46a-bc4678165686)
+
+
+
 Requirements
 As a consultant, you are required to design a cost effective, secure, and efficient network layout that meets SHC requirements. In addition, propose the software, hardware and broadband solutions to the customer.
 Design
